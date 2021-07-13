@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PAGE TITLE
+title: Hello
 permallink: /about/contact
 ---
 이게 되니?
