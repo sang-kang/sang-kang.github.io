@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "포스트 만들어봄"
-date: YYYY-MM-DD hh:mm:ss -0000
+title: "Making post"
+date: 2021-07-13
 categories: jekyll update
 ---
 포스트 만들어봄. 
